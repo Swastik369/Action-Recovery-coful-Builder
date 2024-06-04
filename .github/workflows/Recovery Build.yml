@@ -18,7 +18,7 @@ on:
       DEVICE_TREE_URL:
         description: Device Tree URL
         required: true
-        default: https://github.com/Swastik369/twrp_device_motorola_coful/
+        default: https://github.com/Swastik369/Twrp_Coful
       DEVICE_TREE_BRANCH:
         description: Device Tree Branch
         required: true
